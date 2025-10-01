@@ -9,9 +9,6 @@ Sou um profissional de tecnologia de 25 anos, formado em Tecnologia em Análise 
 - Ferramentas: Git, Docker, Vs code, Kubernetes, Terraform, Ansible, Jenkins, Github Actions, Grafana, Dynatrace, Prometheus.
 - Cloud Platforms: AWS, GCP, Azure e OCI.
 
-## 📊 Estatísticas do GitHub
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guivascs&show_icons=true)
-
 ## 🌐 Redes Sociais
 - [LinkedIn](www.linkedin.com/in/guilhememarim)
 
