@@ -10,7 +10,7 @@ Sou um profissional de tecnologia de 25 anos, formado em Tecnologia em Análise 
 - Cloud Platforms: AWS, GCP, Azure e OCI.
 
 ## 📊 Estatísticas do GitHub
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guivascs&show_icons=true)
 
 ## 🌐 Redes Sociais
 - [LinkedIn](www.linkedin.com/in/guilhememarim)
